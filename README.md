@@ -1,1 +1,1 @@
-# EnterpriseSP_Assignment1
+The primary distinction between Docker and VMs in terms of performance is efficiency. VMs consume more resources because they need to boot up an entire operating system, while Docker containers are more lightweight.
